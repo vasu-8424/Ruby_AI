@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path fill="#FF7B54" d="M115.1 76.8h281.8l99.3 125.6L256 460.8 15.8 202.4l99.3-125.6z"/>
+  <!-- Highlights and Facets to make it look like a 3D Diamond/Ruby -->
+  <path fill="#FF3D71" d="M256 76.8h140.9l99.3 125.6L256 460.8V76.8z"/>
+  <path fill="#FF9E79" d="M256 76.8L156.4 202.4h199.2L256 76.8z"/>
+  <path fill="#D92652" d="M256 460.8V202.4h199.2L256 460.8z"/>
+  <path fill="#E65A41" d="M156.4 202.4L256 460.8V202.4H156.4z"/>
+</svg>
