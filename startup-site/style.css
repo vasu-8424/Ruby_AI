@@ -516,6 +516,7 @@ section.vision-section {
   letter-spacing: -0.02em;
   max-width: 1000px;
   text-transform: uppercase;
+  min-height: 3.5em;
 }
 
 .about-main-title i {
